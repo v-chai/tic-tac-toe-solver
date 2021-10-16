@@ -1,5 +1,5 @@
 require_relative 'tic_tac_toe'
-require "byebug"
+
 class TicTacToeNode
   attr_reader :board
   attr_accessor :next_mover_mark, :prev_move_pos
