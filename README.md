@@ -3,4 +3,4 @@ In this project, I coded a SuperComputerPlayer class that allows a computer play
 
 The SuperComputerPlayer class relies on a TicTacToeNode class that I coded to create a tree node for every game board as well as nodes for all possible next moves from that board (all child nodes). 
 
-The TicTacToe class was provided. 
+The TicTacToe class was provided. It contains the main board and game logic. 
